@@ -1,0 +1,15 @@
+{
+  "name": "anti-18-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "nsfwjs": "^4.2.0",
+    "@tensorflow/tfjs-node": "^4.17.0",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
+}
